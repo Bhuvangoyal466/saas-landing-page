@@ -65,7 +65,7 @@ const BlogResources = () => {
             date: "2025-01-08",
             readTime: "7 min read",
             category: "Strategy",
-            image: "https://images.unsplash.com/photo-1515378791036-0648a814c963?w=400&h=240&fit=crop&crop=center",
+            image: "https://images.unsplash.com/photo-1567839981633-3efa98544592?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=400&h=240&fit=crop&crop=center",
             featured: false,
         },
     ];
