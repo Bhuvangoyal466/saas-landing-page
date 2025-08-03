@@ -12,7 +12,7 @@ const Testimonials = () => {
             role: "Marketing Director",
             company: "TechFlow Inc.",
             content:
-                "ADmyBRAND AI has completely transformed our marketing strategy. We&apos;ve seen a 300% increase in engagement and our content creation time has been cut by 80%. The AI understands our brand voice perfectly.",
+                "ADmyBRAND AI has completely transformed our marketing strategy. We have seen a 300% increase in engagement and our content creation time has been cut by 80%. The AI understands our brand voice perfectly.",
             rating: 5,
             image: "/assets/testimonials/sarah.jpg", // Placeholder
             results: [
@@ -54,7 +54,7 @@ const Testimonials = () => {
             role: "Marketing Manager",
             company: "NextGen Solutions",
             content:
-                "The automation workflows have revolutionized our campaign management. We&apos;re running 10x more campaigns with the same team size, and performance keeps improving with the AI&apos;s learning.",
+                "The automation workflows have revolutionized our campaign management. We are running 10x more campaigns with the same team size, and performance keeps improving with the AI learning.",
             rating: 5,
             image: "/assets/testimonials/david.jpg", // Placeholder
             results: [
@@ -68,7 +68,7 @@ const Testimonials = () => {
             role: "Brand Manager",
             company: "Stellar Brands",
             content:
-                "ADmyBRAND AI doesn&apos;t just generate content—it understands our audience deeply. The personalization level we achieve now was impossible before. Our conversion rates have skyrocketed.",
+                "ADmyBRAND AI does not just generate content—it understands our audience deeply. The personalization level we achieve now was impossible before. Our conversion rates have skyrocketed.",
             rating: 5,
             image: "/assets/testimonials/jessica.jpg", // Placeholder
             results: [
