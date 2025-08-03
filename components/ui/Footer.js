@@ -14,9 +14,21 @@ import {
 const Footer = () => {
     const socialLinks = [
         { icon: Twitter, href: "#", label: "Twitter" },
-        { icon: Linkedin, href: "#", label: "LinkedIn" },
-        { icon: Github, href: "#", label: "GitHub" },
-        { icon: Mail, href: "mailto:hello@admybrand.ai", label: "Email" },
+        {
+            icon: Linkedin,
+            href: "https://www.linkedin.com/in/bhuvangoyal28/",
+            label: "LinkedIn",
+        },
+        {
+            icon: Github,
+            href: "https://github.com/Bhuvangoyal466",
+            label: "GitHub",
+        },
+        {
+            icon: Mail,
+            href: "mailto:bhuvangoyal6002@gmail.com",
+            label: "Email",
+        },
     ];
 
     const footerLinks = {
