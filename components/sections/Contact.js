@@ -259,7 +259,7 @@ const Contact = () => {
                                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                                         <Input
                                             label="Full Name"
-                                            placeholder="John Doe"
+                                            placeholder="Enter your name"
                                             error={errors.name?.message}
                                             {...register(
                                                 "name",
@@ -269,7 +269,7 @@ const Contact = () => {
                                         <Input
                                             label="Email Address"
                                             type="email"
-                                            placeholder="john@company.com"
+                                            placeholder="Enter your email"
                                             error={errors.email?.message}
                                             {...register(
                                                 "email",
