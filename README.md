@@ -200,12 +200,6 @@ theme: {
 - Component-specific styles using Tailwind classes
 - Custom animations and utilities in `/lib/utils.js`
 
-## 📧 Contact & Support
-
-For questions or support regarding this landing page:
-- **Email**: hello@admybrand.ai
-- **Demo**: [Schedule a personalized demo]
-- **Documentation**: Comprehensive component documentation included
 
 ## 📄 License
 
