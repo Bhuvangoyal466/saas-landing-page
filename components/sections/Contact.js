@@ -295,23 +295,68 @@ const Contact = () => {
                                             <select
                                                 {...register("teamSize")}
                                                 className="form-input"
+                                                style={{
+                                                    colorScheme: "dark",
+                                                }}
                                             >
-                                                <option value="">
+                                                <option
+                                                    value=""
+                                                    style={{
+                                                        backgroundColor:
+                                                            "#262626",
+                                                        color: "#ffffff",
+                                                    }}
+                                                >
                                                     Select team size
                                                 </option>
-                                                <option value="1-10">
+                                                <option
+                                                    value="1-10"
+                                                    style={{
+                                                        backgroundColor:
+                                                            "#262626",
+                                                        color: "#ffffff",
+                                                    }}
+                                                >
                                                     1-10 employees
                                                 </option>
-                                                <option value="11-50">
+                                                <option
+                                                    value="11-50"
+                                                    style={{
+                                                        backgroundColor:
+                                                            "#262626",
+                                                        color: "#ffffff",
+                                                    }}
+                                                >
                                                     11-50 employees
                                                 </option>
-                                                <option value="51-200">
+                                                <option
+                                                    value="51-200"
+                                                    style={{
+                                                        backgroundColor:
+                                                            "#262626",
+                                                        color: "#ffffff",
+                                                    }}
+                                                >
                                                     51-200 employees
                                                 </option>
-                                                <option value="201-1000">
+                                                <option
+                                                    value="201-1000"
+                                                    style={{
+                                                        backgroundColor:
+                                                            "#262626",
+                                                        color: "#ffffff",
+                                                    }}
+                                                >
                                                     201-1000 employees
                                                 </option>
-                                                <option value="1000+">
+                                                <option
+                                                    value="1000+"
+                                                    style={{
+                                                        backgroundColor:
+                                                            "#262626",
+                                                        color: "#ffffff",
+                                                    }}
+                                                >
                                                     1000+ employees
                                                 </option>
                                             </select>

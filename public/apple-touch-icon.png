@@ -1,0 +1,17 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="40" fill="url(#gradient)"/>
+  <path d="M45 85L90 65L135 85V115L90 135L45 115V85Z" fill="white" fill-opacity="0.95"/>
+  <path d="M65 95L90 85L115 95V105L90 115L65 105V95Z" fill="url(#innerGradient)"/>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="180" y2="180">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="0.3" stop-color="#D946EF"/>
+      <stop offset="0.7" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="innerGradient" x1="65" y1="85" x2="115" y2="115">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+</svg>

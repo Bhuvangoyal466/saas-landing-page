@@ -1,3 +1,5 @@
+/* Tailwind CSS with custom components and utilities */
+/* This file uses Tailwind's @apply directive - install Tailwind CSS IntelliSense extension */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -110,6 +112,10 @@
     /* Form styles */
     .form-input {
         @apply w-full px-4 py-3 rounded-lg glass border border-white/20 focus:border-primary-500 focus:ring-2 focus:ring-primary-500/20 transition-all duration-300 text-white placeholder-neutral-400 outline-none;
+    }
+
+    .form-input option {
+        @apply bg-neutral-800 text-white;
     }
 
     .form-textarea {
